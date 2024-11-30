@@ -1,0 +1,4 @@
+Name = Leroy P.
+class = class 6
+desired income = $190k
+desired features = nice smile and pretty eyes
